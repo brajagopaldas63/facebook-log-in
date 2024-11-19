@@ -1,0 +1,49 @@
+body{
+    background: rgb(181, 226, 232);
+}
+.fb{
+ color: blue;
+ padding-top: 20px;
+ font-size: 50px;
+  
+}
+.em{
+    display: inline;
+    justify-content: space-around;
+    
+}
+
+.card{
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    height: 350px;
+    width: 400px;
+}
+h3{
+    padding-top: 20px;
+}
+input{
+    width: 340px;
+    height: 48px;
+    border-radius: 5px;
+    border-color: rgb(235, 233, 233);
+
+
+}
+.ln{
+    width: 350px;
+    height: 51px;
+    border-radius: 5px;
+    background-color: rgb(1, 91, 201);
+    font-size: 24px;
+    color: white;
+}
+.cn{
+    width: 350px;
+    height: 51px;
+    border-radius: 5px;
+    font-size: 24px;
+    color: white;
+    background-color: rgb(35, 120, 35);
+}
